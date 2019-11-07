@@ -1,13 +1,10 @@
 Building,Category,Value
-Biomedical Research Tower,Research,0.0
 Jennings Edward H Hall,Academic/Research,1534.6082116420557
 Psychology Building,Academic,1854.6621057161583
 Pomerene Hall,Academic,155.5003506952581
 McCracken Power Plant,Facilities/Administration,555.5703487591995
 McCracken Power Plant,Facilities/Administration,2452.7171782419346
-McCracken Power Plant,Facilities/Administration,0.0
 Physics Research Building,Academic/Research,3275.2916521202987
-St John Arena,Athletics,-4.723410327334933E21
 Schottenstein Jerome Center,Athletics,4200.84535263004
 Ohio Stadium,Athletics,8055.8112818087075
 Hale Frank W Jr Hall,Academic/Administration,46.568083448518394
@@ -16,7 +13,6 @@ Townshend Hall,Academic,386.0158879684283
 Siebert Hall,Student Housing,590.7127873985994
 Dreese Laboratories Erwin E,Academic,322.8743549814526
 Baker David F Systems Engineering Building (The),Academic,1021.3657019296777
-Bricker John W Hall,Administration,-8.2017875270123264E16
 Oxley Hall,Academic,103.82899209989291
 Kennedy June F Commons,Student Housing,383.71949021574807
 Sullivant Joseph Hall,Academic,1427.7814331459158
@@ -37,16 +33,13 @@ Recreation and Physical Activity Center,Student Housing,10690.295732914528
 Chemical and Biomolecular Engineering and Chemistry Building,Academic/Research,4991.180083140434
 Derby Hall,Academic/Administration,319.8035189788238
 Schoenbaum Undergrad Program Bldg,Academic/Administration,0.0
-Mason Raymond E Hall,Academic,0.0
 Blackwell Inn,Hotel,1103.2465473517082
-HALE HALL FRANK W. JR.,,-2541.883247396618
 HALE HALL FRANK W. JR.,,7410.796792316507
 HALE HALL FRANK W. JR.,,7410.156173281649
 Riffe Vernal G Jr Building,Lab,3062.7934040344103
 Morrill Justin S Tower,Student Housing,144.02258864850745
 Parks Lloyd M Hall,Academic/Research,927.8892172082095
 Hitchcock Hall,Academic,1160.2125209440303
-Newton Mildred E Hall,Academic/Research,0.0
 Newton Mildred E Hall,Academic/Research,428.79136504368125
 Biological Science Building,Academic/Research,2505.4979192682626
 Cunz Dieter Hall,Academic,848.2361039852772
@@ -71,6 +64,5 @@ McPherson Chemical Laboratory,Academic/Research,1569.64511702055
 Mendenhall Laboratory,Academic/Administration,1425.9008452025225
 Mershon Auditorium,Auditorium,1404.4768465383602
 Fry Glenn Ansel Hall,Academic/Research,1121.7569103924036
-,,388.02228357241506
 Page Hall,Academic,375.05069793676523
-Smith Alpheus Laboratory,Academic/Research,NaN
+Smith Alpheus Laboratory,Academic/Research,3124.454234354565342
